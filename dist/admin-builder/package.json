@@ -1,0 +1,19 @@
+{
+  "name": "admin-builder",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/admin-builder.umd.js",
+  "module": "fesm2015/admin-builder.js",
+  "es2015": "fesm2015/admin-builder.js",
+  "esm2015": "esm2015/admin-builder.js",
+  "fesm2015": "fesm2015/admin-builder.js",
+  "typings": "admin-builder.d.ts",
+  "metadata": "admin-builder.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
