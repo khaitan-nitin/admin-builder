@@ -1,6 +1,6 @@
 {
   "name": "admin-builder",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7"
@@ -15,5 +15,32 @@
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.10.0"
-  }
+  },
+  "description": "Admin Builder is a plugin that helps to build customizable UI components. It currently supports UI components like List, Form and CRUD. All these components are built completely configurable.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkhaitan1030/admin-builder.git"
+  },
+  "author": "Nitin Khaitan",
+  "people": {
+    "name": "Nitin Khaitan",
+    "email": "khaitan.nitin@gmail.com",
+    "url": "https://www.linkedin.com/in/nitin-khaitan/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkhaitan1030/admin-builder/issues"
+  },
+  "homepage": "https://github.com/nkhaitan1030/admin-builder#readme",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "javascript",
+    "datatable",
+    "grid",
+    "table",
+    "form",
+    "field",
+    "button"
+  ]
 }
