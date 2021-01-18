@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
 ```diff
-- @@Documentation is in progress and should be available in next 2 weeks time@@
+- Documentation is in progress and should be available in next 2 weeks time
 ```
 
 ## Use Case
